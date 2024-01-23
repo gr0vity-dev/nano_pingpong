@@ -1,2 +1,1 @@
-nanorpc==0.0.5
-nano-lib-py==0.5.3
+nanotopy==0.1.0
