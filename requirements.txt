@@ -1,1 +1,2 @@
 nanotopy==0.1.0
+nanows==0.0.1
